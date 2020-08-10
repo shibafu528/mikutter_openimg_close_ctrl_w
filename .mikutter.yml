@@ -1,0 +1,11 @@
+---
+slug: :openimg_close_ctrl_w
+depends:
+  ruby: 2.7.0
+  mikutter: 4.0.0
+  plugin:
+  - openimg
+version: '1.0'
+author: shibafu528
+name: openimg_close_ctrl_w
+description: 画像プレビューをCtrl+Wで閉じられるようにするプラグイン
